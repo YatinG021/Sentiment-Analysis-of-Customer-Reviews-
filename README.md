@@ -135,7 +135,8 @@ The code accompanying this project, including all of the steps above, can be fou
 The classification report reflects the effectiveness of the model in predicting positive and negative sentiments, reporting high precision, recall, and F1-score.
 
 <img width="590" height="160" alt="Image" src="https://github.com/user-attachments/assets/0a2df31e-0692-4d4f-8615-06ee6a8b512a" />
-### 2. Confusion Matrix
+
+## 2. Confusion Matrix
 
 The confusion matrix provides a visual representation of correct and incorrect predictions, showing how many positive and negative reviews were classified correctly or incorrectly.
 
