@@ -1,5 +1,16 @@
-
 # Sentiment Analysis of Customer Reviews using NLP
+
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: YATIN GOGIA
+
+*INTERN ID*: CT04DH1053
+
+*DOMAIN*: MACHINE LEARNING
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTOSH
 
 ## Overview
 
@@ -116,3 +127,5 @@ This project delivers a practical and comprehensive sentiment analysis pipeline,
 The code accompanying this project, including all of the steps above, can be found in the Google Colab notebook (provide your own link if making public).
 
 **Feel free to fork, contribute, or raise issues in the repository for improvements!**
+## OUTPUT
+
