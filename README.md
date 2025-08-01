@@ -128,4 +128,16 @@ The code accompanying this project, including all of the steps above, can be fou
 
 **Feel free to fork, contribute, or raise issues in the repository for improvements!**
 ## OUTPUT
+## Model Evaluation Results
 
+### 1. Classification Report
+
+The classification report reflects the effectiveness of the model in predicting positive and negative sentiments, reporting high precision, recall, and F1-score.
+
+![Classification Report Output](path/to/classification_report_image.png) 
+
+### 2. Confusion Matrix
+
+The confusion matrix provides a visual representation of correct and incorrect predictions, showing how many positive and negative reviews were classified correctly or incorrectly.
+
+![Confusion Matrix Output](path/to/confusion_matrix_image.png) 
